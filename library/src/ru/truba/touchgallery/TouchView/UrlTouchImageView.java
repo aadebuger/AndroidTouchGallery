@@ -137,7 +137,5 @@ public class UrlTouchImageView extends RelativeLayout {
 		}
     }
 
-    public void setScaleType(ScaleType scaleType) {
-        mImageView.setScaleType(scaleType);
-    }
+  
 }
